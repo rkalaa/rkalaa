@@ -1,6 +1,6 @@
 ## Hi there, most people call me Raj. 👋
 I go to Penn State University and like making cool things in my free time
-- 🔭 I’m currently working on a Crime Detection System for my campus.
+- 🔭 I’m currently working stuff for Penn State 👀.
 - Some of my hobbies are going to the gym, participating in hackathons, and playing video games!
 
 <!--
