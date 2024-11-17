@@ -1,4 +1,4 @@
-<h1>Hi I'm Raj! A junior at Penn State University</h1>
+<h1>Hi I'm Brij! A junior at Penn State University</h1>
 
 I live in State College, Pennsylvania, and I am passionate about Software Engineering and building cool things.
 
