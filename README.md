@@ -1,6 +1,6 @@
-<h1>Hi I'm Brij! A junior at Penn State University</h1>
+<h1>Hi I'm Brij! A student at Penn State University</h1>
 
-I live in State College, Pennsylvania, and I am passionate about Software Engineering and building cool things.
+I live in Exton, Pennsylvania, and I am passionate about Software Engineering and building cool things.
 
 🔭 Currently, I am working on an AI-driven Crime Detection System with my university as a passion project.
 Some of my hobbies are going to the gym, participating in hackathons, and playing video games!
